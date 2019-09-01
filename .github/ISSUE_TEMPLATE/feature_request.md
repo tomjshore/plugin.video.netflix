@@ -1,3 +1,8 @@
+---
+name: Feature request
+about: Request for a new feature or to modify an existing one
+
+---
 *I'm submitting a ...*
   - [ ] bug report
   - [ ] feature request
